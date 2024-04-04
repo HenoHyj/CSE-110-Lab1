@@ -15,8 +15,6 @@ int main(){
 
 [DO NOT CLICK ON THIS Link!!! TRUST ME!!!](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
 
-[To the PRIVATE.txt that contains my name and PID](PRIVATE.txt)
-
 [README.md](README.md)
 
 ## TBD
