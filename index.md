@@ -1,4 +1,5 @@
 # A long time ago in a galaxy far, far away....
+
 _STILL MISSING AN IMAGE_
 
 ~~Alright, I have no idea what I'm gonna write in this .md file and I don't know anything worth showing right now~~
@@ -34,3 +35,5 @@ int main(){
 - [ ] Lies of P (Full Trophies) 
 - [ ] Persona 3: Reload
 - [ ] Nukitashi
+
+![an acient meme stolen from elon musk someday](1675765377240.jpg)
