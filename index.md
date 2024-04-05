@@ -36,4 +36,4 @@ int main(){
 - [ ] Persona 3: Reload
 - [ ] Nukitashi
 
-![an acient meme stolen from elon musk someday](1675765377240.jpg =250x)
+![an acient meme stolen from elon musk someday](1675765377240.jpg)
